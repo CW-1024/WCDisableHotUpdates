@@ -1,0 +1,9 @@
+Package: com.netskao.wcdisablehotupdates
+Name: WCDisableHotUpdates
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: WeChat Disable Hot Updates
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
